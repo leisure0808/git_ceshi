@@ -7,3 +7,4 @@ ss = "can"
 mm = ss.split("::")
 print(mm[-1])
 # ce shi tian jia xin de shu ju
+# yong hu 1 tian jia de hang
